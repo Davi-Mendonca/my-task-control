@@ -10,4 +10,5 @@
     1.0
 
 ## Road map
-    Em progresso...
+    - Implementação de permissão de acesso às rotas
+    - integração com frontend em Angular
