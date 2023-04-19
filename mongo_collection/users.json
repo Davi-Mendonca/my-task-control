@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "643f5b29d214f2cb9c4ccacc"
+  },
+  "name": "Juca",
+  "email": "juca@mjv.com.br",
+  "document": "05677236478",
+  "password": "12345",
+  "phone": "",
+  "createdAt": {
+    "$date": "2023-04-19T03:04:39.376Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f5c8332fc6c95959849d4"
+  },
+  "name": "Eliza",
+  "email": "eliza@mjv.com.br",
+  "document": "58694895899",
+  "password": "12345",
+  "phone": "",
+  "createdAt": {
+    "$date": "2023-04-19T03:13:52.014Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f61d03f51e677ccdd0408"
+  },
+  "name": "Lara",
+  "email": "lara@mjv.com.br",
+  "document": "58667489809",
+  "password": "12345",
+  "phone": "",
+  "createdAt": {
+    "$date": "2023-04-19T03:36:06.680Z"
+  },
+  "__v": 0
+}]
